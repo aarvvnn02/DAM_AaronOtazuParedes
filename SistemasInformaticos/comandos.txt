@@ -15,3 +15,20 @@ sudo: ejecuta comandos como administrador
 history: muestra el historial de comandos usados
 grep: busca texto dentro de archivos
 chmod: cambia permisos de archivos y carpetas
+
+COMANDOS BASICOS DE WINDOWS:
+dir: muestra archivos y carpetas
+cd: cambia de directorio
+cd: sube una carpeta
+cls: limpia la pantalla
+mkdir o md: crea una carpeta
+rmdir o rd: elimina una carpeta
+del: elimina archivos
+copy: copia archivos
+move: mueve archivos
+rename o ren: renombra archivos o carpetas
+type: muestra el contenido de un archivo
+tree: muestra la estructura de carpetas
+echo: muestra texto en pantalla
+ipconfig: muestra la configuración de red e IP
+ping: comprueba conexión a internet o red
