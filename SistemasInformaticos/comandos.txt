@@ -1,0 +1,17 @@
+COMANDOS BÁSICOS DE LINUX
+
+pwd: muestra la ruta actual
+ls: muestra los archivos y carpetas
+cd: cambia de directorio
+mkdir: crea una carpeta
+rm: elimina archivos o carpetas
+clear: limpia la terminal
+cp: copia archivos o carpetas
+mv: mueve o renombra archivos y carpetas
+touch: crea un archivo vacío
+cat: muestra el contenido de un archivo
+nano: edita archivos desde la terminal
+sudo: ejecuta comandos como administrador
+history: muestra el historial de comandos usados
+grep: busca texto dentro de archivos
+chmod: cambia permisos de archivos y carpetas

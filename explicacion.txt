@@ -1,0 +1,8 @@
+Nombre: Aaron Otazu Paredes
+
+He elegido estos documentos porque representan diferentes módulos del curso DAW:
+
+- Programación: ejercicios de Java.
+- Bases de Datos: consultas SQL básicas.
+- Lenguaje de Marcas: página HTML sencilla.
+- Sistemas Informáticos: comandos Linux utilizados en clase.

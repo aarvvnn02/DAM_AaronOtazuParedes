@@ -1,0 +1,14 @@
+CREATE DATABASE IES.CANAVERAL;
+
+USE IES.CANAVERAL;
+
+CREATE TABLE alumnos (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nombre VARCHAR(50),
+    edad INT
+);
+
+INSERT INTO alumnos (nombre, edad)
+VALUES ('Aaron', 23);
+
+SELECT * FROM alumnos;
